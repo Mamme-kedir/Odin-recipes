@@ -1,4 +1,4 @@
-# odin-recipes# Odin Recipes
+# Odin Recipes
 
 Odin Recipes is a simple project showcasing a collection of recipes as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This project demonstrates basic HTML structure and linking between pages.
 
